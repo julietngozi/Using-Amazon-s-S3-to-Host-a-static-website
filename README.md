@@ -106,3 +106,5 @@ Step 14 click on save changes
 
 •	It will show error message i.e 404 forbidden
 
+![error 404](https://user-images.githubusercontent.com/104633983/191887631-87d0a1a4-7f90-42f8-a199-41f849a00f03.PNG)
+
