@@ -179,5 +179,5 @@ To do this, from the Services drop-down, select EC2 from the Compute section. Th
 
 Under configure instance details
 
-
+![t](https://user-images.githubusercontent.com/104633983/191968610-aabd2f80-1f10-4879-b280-7f7e687d3e62.PNG)
 
