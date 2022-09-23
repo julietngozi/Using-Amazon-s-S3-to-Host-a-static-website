@@ -74,3 +74,35 @@ Note: Bucket is a folder here you have subfolder and files and 2 persons in the 
 Step 7 click on your bucket name
 
 ![step 7](https://user-images.githubusercontent.com/104633983/191887144-8f948641-a04f-48be-b711-0ef8ea2d907c.PNG)
+
+Step 8 click upload
+
+•	Then open the folder from your file and drag them and put them in your folder
+
+Step 9 click upload 
+
+Step 10 click on exit after successful
+
+It display the following:
+
+•	Access
+•	Css
+•	Js
+•	Index
+
+Step 11 click on properties
+
+Step 12 click on edit
+
+Step 13 click on enable static
+
+•	Under index document: type index.html
+
+•	If there is error you type but if not leave it.
+
+Step 14 click on save changes
+
+•	Click on the link under static website and copy it, open it in a new tab
+
+•	It will show error message i.e 404 forbidden
+
