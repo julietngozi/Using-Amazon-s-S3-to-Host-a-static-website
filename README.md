@@ -125,3 +125,25 @@ Step 17 click on save.
 •	It will bring out your static website
 
 ![service](https://user-images.githubusercontent.com/104633983/191889110-2895d210-f407-4517-a744-cb9747cbccdd.PNG)
+
+
+Using this service to store developer codes before hosting them on virtual servers (EC2) for dynamic web apps.
+
+1.	Create S3 Bucket 
+2.	
+3.	Upload web files to S3 bucket
+4.	 
+5.	Create IAM Role
+6.	
+7.	Create an EC2 instance
+8.	
+9.	SSH with MobaXterm 
+10.	
+11.	Install a LMP web server on Amazon Linux2 
+12.	
+Step 1 : Create S3 Bucket 
+
+You will need to create an S3 bucket to put your website’s files and folders.
+
+
+
