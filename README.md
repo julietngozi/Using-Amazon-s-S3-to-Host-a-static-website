@@ -167,7 +167,7 @@ On the Objects tab, you can see that the bucket is currently empty, click on the
 
 This should take you to the Upload page. Drag and Drop the website files that was downloaded from this . 
 
-
+![css](https://user-images.githubusercontent.com/104633983/191970804-fa7fd0bc-9601-4a74-bc7d-4a6456239d8f.PNG)
 
 Step 3 : Create IAM Role 
 
