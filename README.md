@@ -187,9 +187,11 @@ Click Next
 
 You can add tag Name: DynamicSite. Then click on Next: Configure Security Group. 
 
-Select Create a new security group. Give it Name: DynamicWebsite3 and description:   DynamicWebApp1. For SSH rule select My IP for Source. Click on Add Rule and select HTTP for Type and Anywhere for Source. Last rule select HTTPS for Type and Anywhere for Source.
+Select Create a new security group. Give it Name: DynamicWebsite3 and description:   DynamicWebApp1. For SSH rule select My IP for Source. 
 
- Click on Review and Launch. 
+Click on Add Rule and select HTTP for Type and Anywhere for Source. Last rule select HTTPS for Type and Anywhere for Source.
+
+Click on Review and Launch. 
 
 
 
