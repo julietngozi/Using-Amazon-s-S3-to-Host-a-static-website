@@ -173,5 +173,11 @@ To do this, from the Services drop-down, select IAM from the Security, Identity&
 
 ![role](https://user-images.githubusercontent.com/104633983/191890620-1bad4b35-2d19-4f32-8339-96c47113508e.PNG)
 
+Step 4 : Create an EC2 instance 
+
+To do this, from the Services drop-down, select EC2 from the Compute section. This should display the EC2 dashboard. From the EC2 dashboard, click on Launch instance. 
+
+Under configure instance details
+
 
 
