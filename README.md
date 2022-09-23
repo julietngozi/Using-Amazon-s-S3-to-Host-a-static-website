@@ -124,3 +124,4 @@ Step 17 click on save.
 
 •	It will bring out your static website
 
+![service](https://user-images.githubusercontent.com/104633983/191889110-2895d210-f407-4517-a744-cb9747cbccdd.PNG)
