@@ -108,3 +108,19 @@ Step 14 click on save changes
 
 ![error 404](https://user-images.githubusercontent.com/104633983/191887631-87d0a1a4-7f90-42f8-a199-41f849a00f03.PNG)
 
+Step 15 click on permission 
+
+•	In access control link click on edit
+
+Step 16 copy the code 
+
+•	Edit bucket policy
+
+•	Under policy permission paste the code 
+
+•	Copy the name of your bucket and put it in the Json log 
+
+Step 17 click on save.
+
+•	It will bring out your static website
+
