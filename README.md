@@ -145,5 +145,7 @@ Step 1 : Create S3 Bucket
 
 You will need to create an S3 bucket to put your website’s files and folders.
 
+![step 1](https://user-images.githubusercontent.com/104633983/191889593-3069ba12-13c3-4acc-9d15-5e6982555b4a.PNG)
+
 
 
