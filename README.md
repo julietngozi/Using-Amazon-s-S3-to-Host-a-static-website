@@ -147,5 +147,23 @@ You will need to create an S3 bucket to put your website’s files and folders.
 
 ![step 1](https://user-images.githubusercontent.com/104633983/191889593-3069ba12-13c3-4acc-9d15-5e6982555b4a.PNG)
 
+Under Block Public Access settings for this bucket section, check the Block all public access checkbox. This is done to make the bucket not accessible to the public. 
+
+Click on Disable for Bucket Versioning. 
+
+Under Default encryption section, click on Enable for Server-side encryption. Then check Amazon S3 Key (SSE-S3). 
+
+Then click on Create bucket. 
+
+Step 2 : Upload web files to S3 bucket 
+
+After creating the bucket, you need to upload your website’s files and folders into it. 
+
+From the S3 dashboard, click on the name of the bucket you just created. 
+
+On the Objects tab, you can see that the bucket is currently empty, click on the Upload button. 
+
+
+
 
 
