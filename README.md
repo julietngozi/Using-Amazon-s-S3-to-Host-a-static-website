@@ -165,6 +165,10 @@ On the Objects tab, you can see that the bucket is currently empty, click on the
 
 ![vi](https://user-images.githubusercontent.com/104633983/191890205-8e213cbb-c19f-4464-83f7-6a2cb59508ef.PNG)
 
+This should take you to the Upload page. Drag and Drop the website files that was downloaded from this . 
+
+
+
 Step 3 : Create IAM Role 
 
 Now, EC2 want to pull code from S3. So you want to create IAM Role to give EC2 permission to access S3. 
