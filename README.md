@@ -171,6 +171,7 @@ Now, EC2 want to pull code from S3. So you want to create IAM Role to give EC2 p
 
 To do this, from the Services drop-down, select IAM from the Security, Identity& Compliance section. From the IAM dashboard, click on Roles. Then Click on Create role. 
 
+![role](https://user-images.githubusercontent.com/104633983/191890620-1bad4b35-2d19-4f32-8339-96c47113508e.PNG)
 
 
 
