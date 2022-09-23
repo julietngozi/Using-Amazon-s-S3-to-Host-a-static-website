@@ -169,6 +169,11 @@ This should take you to the Upload page. Drag and Drop the website files that wa
 
 ![css](https://user-images.githubusercontent.com/104633983/191970804-fa7fd0bc-9601-4a74-bc7d-4a6456239d8f.PNG)
 
+After the necessary files and folders have been added, scroll down and click on Upload. 
+
+The uploading should be done in a few minutes depending on your network and content size. 
+Also, please do not close the tab while the upload process is going on. 
+
 Step 3 : Create IAM Role 
 
 Now, EC2 want to pull code from S3. So you want to create IAM Role to give EC2 permission to access S3. 
@@ -196,6 +201,8 @@ Select Create a new security group. Give it Name: DynamicWebsite3 and descriptio
 Click on Add Rule and select HTTP for Type and Anywhere for Source. Last rule select HTTPS for Type and Anywhere for Source.
 
 Click on Review and Launch. 
+
+
 
 
 
