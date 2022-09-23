@@ -181,3 +181,13 @@ Under configure instance details
 
 ![t](https://user-images.githubusercontent.com/104633983/191968610-aabd2f80-1f10-4879-b280-7f7e687d3e62.PNG)
 
+Click Next
+
+You can add tag Name: DynamicSite. Then click on Next: Configure Security Group. 
+
+Select Create a new security group. Give it Name: DynamicWebsite3 and description:   DynamicWebApp1. For SSH rule select My IP for Source. Click on Add Rule and select HTTP for Type and Anywhere for Source. Last rule select HTTPS for Type and Anywhere for Source.
+
+ Click on Review and Launch. 
+
+
+
