@@ -163,6 +163,7 @@ From the S3 dashboard, click on the name of the bucket you just created.
 
 On the Objects tab, you can see that the bucket is currently empty, click on the Upload button. 
 
+![vi](https://user-images.githubusercontent.com/104633983/191890205-8e213cbb-c19f-4464-83f7-6a2cb59508ef.PNG)
 
 
 
