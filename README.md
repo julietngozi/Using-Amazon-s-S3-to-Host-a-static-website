@@ -72,3 +72,5 @@ Step 6 click on create
 Note: Bucket is a folder here you have subfolder and files and 2 persons in the world cannot have the same bucket name.
 
 Step 7 click on your bucket name
+
+![step 7](https://user-images.githubusercontent.com/104633983/191887144-8f948641-a04f-48be-b711-0ef8ea2d907c.PNG)
